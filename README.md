@@ -1,4 +1,4 @@
-# Day 1: Recursive Counting
+## Day 1: Recursive Counting
 
 **Fork and then clone me!**
 
